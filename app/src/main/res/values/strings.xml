@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TareaMVC</string>
+    <string name="hint_nombre">Nombre:</string>
+    <string name="hint_apellidos">Apellidos:</string>
+    <string name="hint_edad">Edad:</string>
+    <string name="hint_direccion">Direccion:</string>
+    <string name="hint_puestos">Puestos:</string>
+    <string name="btn_guarda">Guardar registro</string>
+    <string name="menu_nuevo">Nuevo registro</string>
+
+</resources>
